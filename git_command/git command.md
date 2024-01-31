@@ -29,6 +29,7 @@ message :用来简要说明这次提交的语句,每次都要提交，即备注�
 报错：
 
 1. nothing to commit, working tree clean——改变内容，空格也行
+1. [如何git上传代码避免出现! [rejected\] main -＞ main (non-fast-forward)_! [rejected] main -> main (non-fast-forward)-CSDN博客](https://blog.csdn.net/practical_sharp/article/details/131907980?ops_request_misc=%7B%22request%5Fid%22%3A%22170672588516800186571489%22%2C%22scm%22%3A%2220140713.130102334..%22%7D&request_id=170672588516800186571489&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-131907980-null-null.142^v99^pc_search_result_base2&utm_term= ! [rejected]        main -> main (non-fast-forward)&spm=1018.2226.3001.4187)
 
 ## 其他指令
 
